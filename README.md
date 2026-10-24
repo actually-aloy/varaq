@@ -2,6 +2,8 @@
 
 A quiet, minimalist PDF reader.
 
+**[Open the Varaq page](https://actually-aloy.github.io/site/varaq)** — a small live demo, features, shortcuts, FAQ and the download button.
+
 Continuous & two-page layouts, smooth zoom, thumbnails & outline, full-text
 search, highlights / area marks / Markdown text boxes with undo, bookmarks,
 light / sepia / dark themes (with real dark pages), a command palette, drag
@@ -12,6 +14,8 @@ support.
 
 Grab the latest .zip from the [Releases](../../releases) page,
 extract, double-click it, and you're reading. No installer, no setup.
+
+Not sure yet? Try the demo and read the FAQ on the [Varaq page](https://actually-aloy.github.io/site/varaq).
 
 ## Saving & where things live
 
@@ -43,11 +47,15 @@ Made by **Aloy** — [site](https://actually-aloy.github.io/site) ·
 
 یه PDF reader ساده و بی‌حاشیه.
 
+**[صفحه‌ی ورق رو باز کن](https://actually-aloy.github.io/site/varaq)** — یه دموی زنده، امکانات، میان‌بُرها، سؤال‌های رایج و دکمه‌ی دانلود.
+
 چیدمان پیوسته یا دوصفحه‌ای، زوم نرم، تامبنیل و فهرست مطالب، جستجوی تمام‌متن، هایلایت کردن و مشخص کردن ناحیه و جعبه‌متن مارک‌داون (با Undo کامل)، بوکمارک، تم روشن / سپیا / تاریک (با صفحات واقعاً تاریک، نه فقط رنگ معکوس)، command palette، کشیدن و رها کردن فایل، باز کردن فایل‌های رمزدار، و پشتیبانی کامل از فارسی و راست‌به‌چپ.
 
 ## دریافت
 
 آخرین نسخه رو از صفحه‌ی [Releases](../../releases) به‌صورت zip بگیر، extract کن، دوبار کلیک کن روش. نه نصبی لازمه نه تنظیماتی.
+
+هنوز مطمئن نیستی؟ دمو رو امتحان کن و سؤال‌های رایج رو تو [صفحه‌ی ورق](https://actually-aloy.github.io/site/varaq) بخون.
 
 ## ذخیره‌سازی و اینکه چی کجا می‌مونه
 
